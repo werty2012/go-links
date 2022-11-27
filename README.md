@@ -10,3 +10,6 @@ https://github.com/itwars/docker-golang-rest-mongodb-nginx
 
 marcel-dempers:
 https://github.com/jeanclei/marcel-dempers_docker-development-youtube-series
+
+Рекомендации по работе с Docker для Golang-разработчиков (Multistage Building) / Хабр
+https://habr.com/ru/post/647255/
